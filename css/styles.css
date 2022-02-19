@@ -12,6 +12,7 @@ img{
   margin: 2%;
   width: 30%;
   float: left;
+  border-radius: 10px;
 }
 
 p{
