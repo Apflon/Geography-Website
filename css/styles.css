@@ -7,3 +7,13 @@ body{
   background-color: #aef3e2;
   color: #4B4E6D;
 }
+
+img{
+  margin: 2%;
+  width: 30%;
+  float: left;
+}
+
+p{
+  margin: 2%;
+}
