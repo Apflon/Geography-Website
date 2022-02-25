@@ -1,20 +1,45 @@
 .navbackground{
-  background-color:#ecae78;
+  background-color:#4092f0;
 
 }
 
 body{
-  background-color: #aef3e2;
+  background-color: #f6ffcd;
   color: #4B4E6D;
+ 
 }
 
-img{
+.img2{
   margin: 2%;
-  width: 30%;
+  width: 40%;
   float: left;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 p{
   margin: 2%;
+   font-size: 25px;
+}
+
+.source_list{
+  padding: 10px;
+}
+
+.img1{
+  margin: 2%;
+  width: 40%;
+  float: left;
+  border-radius: 8px;
+}
+
+h1{
+  margin: 2%;
+
+}
+
+.img3{
+  margin: 2%;
+  width: 40%;
+  float: left;
+  border-radius: 8px;
 }
