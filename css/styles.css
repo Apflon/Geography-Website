@@ -11,14 +11,15 @@ body{
 
 .img2{
   margin: 2%;
-  width: 40%;
+  width: 50%;
   float: left;
   border-radius: 8px;
 }
 
 p{
-  margin: 2%;
-   font-size: 25px;
+  margin: 3%;
+  font-size: 20px;
+  padding:10px ;
 }
 
 .source_list{
@@ -27,19 +28,40 @@ p{
 
 .img1{
   margin: 2%;
-  width: 40%;
+  width: 50%;
   float: left;
   border-radius: 8px;
 }
 
-h1{
+h1,h2{
   margin: 2%;
 
 }
 
 .img3{
   margin: 2%;
-  width: 40%;
+  width: 50%;
   float: left;
   border-radius: 8px;
+}
+
+.img4{
+  width: 40%;
+  margin: 2%;
+  float: left;
+  border-radius: 8px;
+}
+
+.img5{
+  width: 40%;
+  margin: 2%;
+  border-radius: 8px;
+}
+
+
+.footer{
+  text-align: center;
+  margin-top: 100px;
+  color: gray;
+  display: block;
 }
