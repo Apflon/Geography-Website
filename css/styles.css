@@ -58,8 +58,9 @@ h1,h2{
 }
 
 .footer{
-  text-align: center;
-  margin-top: 100px;
-  color: gray;
-  display: block;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: grey;
+   text-align: center;
 }
